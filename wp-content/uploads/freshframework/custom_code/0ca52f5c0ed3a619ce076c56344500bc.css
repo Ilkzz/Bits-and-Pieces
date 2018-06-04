@@ -1,0 +1,17 @@
+.add_to_cart_button {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0px;
+}
+
+@media all {
+    @media (min-width: 768px) {
+        .page-template-template-fullwidth-php .site-main .columns-4 ul.products li.product, .page-template-template-homepage-php .site-main .columns-4 ul.products li.product, .storefront-full-width-content .site-main .columns-4 ul.products li.product {
+            width: 21.7391304348%;
+            float: left;
+            margin-right: 4.347826087%;
+            height: 440px;
+        }
+    }
+}

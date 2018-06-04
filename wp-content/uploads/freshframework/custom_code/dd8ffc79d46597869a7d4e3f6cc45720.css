@@ -1,0 +1,99 @@
+a, li {
+    outline:none;
+}
+
+header#masthead.site-header {
+    -webkit-box-shadow: 0px 0px 10px 0px rgba(128,128,128,0.65);
+    -moz-box-shadow: 0px 0px 10px 0px rgba(128,128,128,0.65);
+    box-shadow: 0px 0px 10px 0px rgba(128,128,128,0.65);
+}
+
+.add_to_cart_button {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0px;
+}
+
+a.button.product_type_simple.ajax_add_to_cart {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0px;
+}
+
+storefront-product-categories mark {
+    display: none;
+}
+
+.count {
+    display: none;
+}
+
+@media all {
+    @media (min-width: 768px) {
+        .page-template-template-fullwidth-php .site-main .columns-4 ul.products li.product, .page-template-template-homepage-php .site-main .columns-4 ul.products li.product, .storefront-full-width-content .site-main .columns-4 ul.products li.product {
+            width: 21.7391304348%;
+            float: left;
+            margin-right: 4.347826087%;
+            height: 440px;
+        }
+        
+        .site-main ul.products li.product {
+            height: 420px;
+        }
+        
+         .site-main ul.products li.product-category {
+            height: 260px;
+        }
+        
+        .related ul li {
+            height: 420px;
+        }
+        
+        .main-navigation ul.menu ul.sub-menu {
+            box-shadow: 0px 6px 26px 0px rgba(189,189,189,0.68);
+        }
+        .widget_shopping_cart {
+            box-shadow: 0px 6px 26px 0px rgba(189,189,189,0.68);
+        }
+}
+
+.storefront-product-categories .section-title
+{
+   background-color: #ffe9e9;
+   padding-top: 20px;
+   padding-bottom:20px;
+   
+}
+.storefront-recent-products .section-title
+{
+   background-color: rgb(222, 234, 255);;
+   padding-top: 20px;
+   padding-bottom:20px;
+     
+}
+.storefront-on-sale-products .section-title
+{
+   background-color: rgb(237, 255, 229);
+   padding-top: 20px;
+   padding-bottom:20px;
+}
+
+.storefront-best-selling-products .section-title {
+    background-color: #f6e6ff;
+    padding-top: 20px;
+    padding-bottom:20px;
+}
+.woocommerce-error, .woocommerce-info, .woocommerce-message, .woocommerce-noreviews, p.no-comments
+{
+    background-color: #104e8f;
+}
+.widget_price_filter .ui-slider .ui-slider-range, .widget_price_filter .ui-slider .ui-slider-handle
+{
+    background-color: #104e8f;
+}
+.input-text, input[type=text], input[type=email], input[type=url], input[type=password], input[type=search], textarea
+{
+    background-color:white;
+}

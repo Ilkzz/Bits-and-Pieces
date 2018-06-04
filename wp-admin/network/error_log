@@ -1,0 +1,2 @@
+[06-Oct-2017 01:45:41 UTC] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home1/uchenna/public_html/wp-includes/capabilities.php on line 522
+[06-Oct-2017 13:25:56 UTC] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home1/uchenna/public_html/wp-includes/capabilities.php on line 522

@@ -1,0 +1,23 @@
+[07-Dec-2016 09:29:34 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home1/uchenna/public_html/wp-includes/feed-rdf.php on line 8
+[13-Dec-2016 09:07:03 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home1/uchenna/public_html/wp-includes/feed-rdf.php on line 8
+[21-Dec-2016 20:55:59 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/uchenna/public_html/wp-includes/embed-template.php on line 11
+[25-Dec-2016 18:02:46 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home1/uchenna/public_html/wp-includes/feed-rdf.php on line 8
+[28-Dec-2016 13:48:04 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/uchenna/public_html/wp-includes/embed-template.php on line 11
+[01-Jan-2017 10:13:55 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/uchenna/public_html/wp-includes/functions.php on line 8
+[01-Jan-2017 10:13:55 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/uchenna/public_html/wp-includes/functions.php on line 8
+[01-Jan-2017 10:13:55 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/php56/lib/php') in /home1/uchenna/public_html/wp-includes/functions.php on line 8
+[01-Jan-2017 12:04:09 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/uchenna/public_html/wp-includes/session.php on line 8
+[13-Jan-2017 14:39:42 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/uchenna/public_html/wp-includes/embed-template.php on line 11
+[19-Mar-2017 21:51:30 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home1/uchenna/public_html/wp-includes/feed-rdf.php on line 8
+[19-Mar-2017 21:53:51 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/uchenna/public_html/wp-includes/embed-template.php on line 11
+[04-Apr-2017 13:10:24 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home1/uchenna/public_html/wp-includes/feed-rdf.php on line 8
+[07-Apr-2017 21:58:06 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/uchenna/public_html/wp-includes/embed-template.php on line 11
+[07-Apr-2017 21:58:10 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home1/uchenna/public_html/wp-includes/feed-rdf.php on line 8
+[07-May-2017 15:16:07 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home1/uchenna/public_html/wp-includes/feed-rdf.php on line 8
+[07-May-2017 15:16:33 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/uchenna/public_html/wp-includes/embed-template.php on line 11
+[07-May-2017 15:16:50 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home1/uchenna/public_html/wp-includes/feed-rdf.php on line 8
+[07-May-2017 15:17:15 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/uchenna/public_html/wp-includes/embed-template.php on line 11
+[12-Jun-2017 15:37:46 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/uchenna/public_html/wp-includes/embed-template.php on line 11
+[12-Jun-2017 15:37:50 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home1/uchenna/public_html/wp-includes/feed-rdf.php on line 8
+[18-Jul-2017 12:45:57 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/uchenna/public_html/wp-includes/embed-template.php on line 11
+[18-Jul-2017 12:46:02 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home1/uchenna/public_html/wp-includes/feed-rdf.php on line 8
